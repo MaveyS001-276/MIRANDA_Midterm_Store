@@ -63,6 +63,7 @@ public class ProductsController : Controller
         return View(product);
     }
 
+    [HttpPost]
     public IActionResult Delete(int id)
     {
         var product = _db.Products.Find(id);

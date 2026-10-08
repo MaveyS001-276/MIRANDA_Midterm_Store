@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.MVC;
 using MIRANDA_Midterm_Store.Models;
 
 namespace MIRANDA_Midterm_Store.Controllers;

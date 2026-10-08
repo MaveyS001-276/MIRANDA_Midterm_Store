@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIRANDA_Midterm_Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd6a5265663c31d81ea4334a508d9cee005ab062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf71f99635d92003b3b544e02bf23d9ab7dc3ab4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIRANDA_Midterm_Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIRANDA_Midterm_Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
